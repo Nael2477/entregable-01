@@ -3,7 +3,7 @@ import './App.css'
 import QuoteBox from './components/QuoteBox';
 import db from './db/quotes.json'
 
-const arrayColors = ["#ff6961", "#77dd77", "#fdfd96", "#84b6f4", "#fdcae1"]
+const arrayColors = ["#007bdf", "#00bff0", "#ff3c32", "#ff3c32", "#fba905"]
 
 function App() {
   const getRandom =(arrayElements) =>{
